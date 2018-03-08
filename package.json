@@ -1,6 +1,9 @@
 {
   "name": "retune",
   "private": true,
+  "engines": {
+    "node": "8.9.3"
+  },
   "dependencies": {
     "@rails/webpacker": "~3.3.0",
     "babel-preset-react": "~6.24.1",
